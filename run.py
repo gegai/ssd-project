@@ -29,7 +29,7 @@ app = create_app(os.getenv('FLASK_CONFIG') or 'default')
 @app.errorhandler(404)
 def page_not_found(error):
     print error
-    return jsonify({'status':'404', 'msg': u'页面被狗叼走了！'})
+    return jsonify({'status':'404', 'msg': u'页面被狼叼走了！'})
 
 
 
