@@ -31,21 +31,7 @@ def page_not_found(error):
     print error
     return jsonify({'status':'404', 'msg': u'页面被狗叼走了！'})
 
-# @app.route('/api/v1/upload', methods=['post'])
-# def upload():
-#     fname = request.files.get('file')
-#     print fname
-#     ret_json={}
-#     if fname:
-#         t = time.strftime('%Y%m%d%H%M%S')
-#         new_fname = r'upload/' + t + fname.filename
-#         fname.save(new_fname)
-#         return '{"code": "ok"}'
-#     else:
-#         return '{"msg": "file!"}'
-    # rst = make_response(ret_json)
-    # rst.headers['Access-Control-Allow-Origin'] = '*'
-    # return rst
+
 
 
 
