@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js 弹出框</title>
+	<link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+</head>
+<body>
+	<script  src="js/jquery-2.1.4.min.js"></script>
+<script  src="js/jquery-confirm.js"></script>
+<!-- <script  src="js/jquery.form.js"></script> -->
+
+<script type="text/javascript">
+	function confirm_alert(msg) {
+    $.alert({
+        title: '系统提示',
+        content: msg,
+        icon: 'fa fa-comment',
+        type: 'green',
+        buttons: {
+            "是的": function() {
+
+            }
+        }
+    });
+}
+confirm_alert("我是最棒的！");
+</script>
+
+
+</body>
+</html>

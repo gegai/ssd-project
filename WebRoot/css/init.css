@@ -1,0 +1,210 @@
+      #menu {
+	         font:2.5rem verdana, arial, sans-serif; 
+	         position:relative;
+			 margin-left:-23%;
+			 left:50%; 
+             width:80%;
+			 margin-top:80px;
+			 }
+	  #menu li {float:left;}
+	  #menu li {
+	  list-style:none; /* 将默认的列表符号去掉 */
+      padding:0; /* 将默认的内边距去掉 */
+      margin:0; /* 将默认的外边距去掉 */
+	  width:25%;
+      }
+	  #menu li a {
+
+      color:#FFFFFF;
+	  display:block;
+      align:center;
+	  padding-bottom:5px;
+	  width:117px;
+      text-decoration:none;
+      }
+	  #bodyId{
+  overflow: hidden;
+  font-family: "微软雅黑";
+  margin: 0; 
+  padding: 0;
+  position: relative;
+  width: auto;
+  height:auto;
+  background:url(../ssd_img/b.jpg) no-repeat;
+  /*background-position: center;*/
+  background-size: 100% 100%;
+}
+	  a.ex2{
+	  color:#38b8f5 !important;
+	  border-bottom:5px solid #38b8f5;border-bottom-width:3px;
+	  }
+      a.ex1:hover,a.ex1:active {color:#38b8f5 !important;border-bottom:5px solid #38b8f5;border-bottom-width:3px}
+      a.ex2:hover,a.ex2:active {color:#38b8f5 !important;border-bottom:5px solid #38b8f5;border-bottom-width:3px}
+      a.ex3:hover,a.ex3:active {color:#38b8f5 !important;border-bottom:5px solid #38b8f5;border-bottom-width:3px}
+	  
+	  #tableClass {
+	  position:absolute;
+	  left:50%;
+	  margin-left:-35%;
+	  top:50px;
+      
+      width:70%;	  
+	  }
+	  .net{
+	  position:relative;
+	  left:10%;
+	  margin-left:0;
+	  top:10px;
+	  weight:100%;
+	  height:135px;
+	  
+	  }
+	 
+	  .menu_text{
+	  position:relative;
+	  top:5%;
+	  font-weight: bold;
+	  text-indent: 0.5em;
+	  font-size:1.7rem;
+	  font-family:verdana;
+	  }
+	  .base_det{
+	  position:relative;
+	  top:5px;
+	  font-weight: bold;
+	  text-indent: 0.5em;
+	  font-size:1.7rem;
+	  font-family:verdana;
+	  }
+	  .details{
+	  text-indent: 0.5em;
+	  font-size:1.5rem;
+	  font-family:courier;
+      }
+	 
+	 
+	  
+	  
+	  .d1{
+	  position:relative;
+	  top:30px;
+	  width:75%;
+	  height:100%;
+	  }
+	  
+.d1 input {
+  position:relative;
+  width: 100%;
+
+  padding-left: 1rem;
+  border: 0.2rem solid #3bb7f5;
+  border-radius: 0px 1.5rem 1.5rem 0px;
+  outline: none;
+  
+  color: #9E9C9C;
+}
+.d1 button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 20%;
+  height: 100%;
+  border: none;
+  background: #3bb7f5;
+ 
+  border-radius: 1rem 1rem 1rem 1rem;
+  cursor: pointer;
+}
+.d1 button:before {
+  
+  font-family: FontAwesome;
+  font-size: 1.2rem;
+  
+}    
+
+
+
+
+
+
+
+   
+.d2{
+	  position:absolute;
+	  left:50%;
+	  top:155px;
+      margin-left:35%;
+	  
+	  width:100px;
+	  }
+	  
+.d2 input {
+  width: 100%;
+  height: 23px;
+  padding-left: 1rem;
+  border: 0.2rem solid #3bb7f5;
+  border-radius: 1.5rem;
+  outline: none;
+
+  color: #9E9C9C;
+}
+.d2 button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 23px;
+  height: 23px;
+  border: none;
+  background: #3bb7f5;
+  border-radius: 1.5rem 1.5rem 1.5rem 1.5rem;
+  cursor: pointer;
+}
+
+
+.d2 button:before {
+  font-family: FontAwesome;
+  font-size: 1.2rem;
+}
+.img{
+ position:relative;
+ top:-1px;
+ left:-3px;
+ max-width:15px;
+ max-height:15px;
+}
+
+.weizhi{
+position:relative;
+top:31.05px;;
+left:0%;
+width:100%
+} 
+.img_logo{
+max-width:200px;
+max-height:70px;
+}
+.poslogo{
+position:absolute;
+font-size: 3.2rem;
+top:-5%;
+left:1%;
+width:20%;
+height:6%;
+
+//background:#3bb7f5;
+font-family:KaiTi;
+color:white;
+}
+.jconfirm.jconfirm-my-theme .jconfirm-box{
+background:url(../ssd_img/lala.png) no-repeat;
+height:190px;
+}
+.jconfirm.jconfirm-my-theme .jconfirm-box .jconfirm-buttons{
+position:absolute;
+top:150px;
+right:20px;
+}
+.jconfirm.jconfirm-my-theme .jconfirm-box .jconfirm-content{
+position:relative;
+top:-50px;
+}

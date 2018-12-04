@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="charset=UTF-8">
+    
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">
+    <link rel="stylesheet" type="text/css" href="css/pager.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+</head>
+<body>
+<button onclick='commit_request()'>提交</button>
+
+<script src="http://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery-confirm.js"></script>
+<script src="js/pager.js"></script>
+<script  src="js/index.js"></script>
+
+<script>
+
+fucntion commit_request() {
+
+	$.ajax({
+		type: 'post',
+		url: 'http://192.168.1.131/api/v1/ssd/monitorinfo',
+		data: '{"ip":"172.16.1.103"}',
+		contentType:'application/json',
+		success:function(data){
+			console.log(data);
+		}
+	});
+}
+
+</script>
+</body>
+</html>

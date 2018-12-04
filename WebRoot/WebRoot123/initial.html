@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">
+    <link rel="stylesheet" type="text/css" href="css/pager.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrapValidator.css"/>
+</head>
+<body>
+<!--<div class="left">
+    <div class="logo"><img src="img/logo.png" width="150px"/></div>
+
+    <nav class="navbar menu">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home"></span>首页</a></li>
+            <li><a href="warn.html"><span class="glyphicon glyphicon-warning-sign"></span>报警信息</a></li>
+            <li><a href="configure.html"><span class="glyphicon glyphicon-cog"></span>配置</a></li>
+        </ul>
+    </nav>
+</div>-->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+     
+         <a href="" class="navbar-brand main-brand" style="padding-top: 5px;"><img src="img/logo_03.png" style="width: 120px;height: 45px;"/></a>
+        </div>
+        <div id="navbar" class="navbar pull-right" style="color: #FFFFFF;font-size: 30px;font: '微软雅黑';line-height: 50px;margin-right: 30px;">
+                       欢迎使用SSD监控系统
+        </div>
+      </div>
+    </nav>
+<div class="right" style="background: url(img/timg.jpg) no-repeat; background-size: cover;margin-top: 52px;">
+    <!--<nav class="right-top"></nav>-->
+ 
+    <div class="container middle" style="padding-left:0px;">
+        <p class="initialtitle" style="font-size:18px;font-family: "微软雅黑";">
+            是否添加主机  (如果无需添加主机   请直接点击"开始监控"按钮即可)
+        </p>
+		<h4 style="margin-left: 20px;">请选择主机信息文件:</h4>
+		    <form id="form1" method="post" action="/api/v1/ssd/quick_add_host" enctype="multipart/form-data" target="framFile">
+
+			<div class="form-group">
+                <div class="col-sm-5 col-sm-offset-2">
+					<input id="File1" data-toggle="tooltip" data-placement="top" title="文件类型是xlsx格式,例如host.xlsx"  class="btn btn-default" type="file" name="myfile"/>  <!--后台代码中获取文件是通过form的name来标识的-->
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-3 col-sm-offset-2">
+                    <input type="submit" id="hostupload"  class="btn btn-primary" value="提交" style="background: #3bb7f5;border:1px solid #3bb7f5;"/>
+                </div>
+            </div>
+			<br/><br/><br/>
+            </form>
+			<iframe id="framFile" name="framFile" style="display:none;"></iframe>
+			
+
+            <div class="form-group">
+                <div class="col-sm-offset-2" style="padding-left: 15px;">
+                    <button type="button" class="btn btn-primary col-sm-10" id="start_monitor" style="background: #3bb7f5;border:1px solid #3bb7f5;">开始监控</button>
+                </div>
+            </div>
+      
+		
+    </div>
+</div>
+
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!--<script >
+	 $(".addhosts").load("/hostform.html");
+</script>-->
+<script src="js/jquery-confirm.js"></script>
+<script  src="js/bootstrapvalidator/bootstrapValidator.min.js"></script>
+<script  src="js/host-validator.js"></script>
+<script  src="js/ajaxfileupload.js"></script>
+<script src="js/jquery.form.js" type="text/javascript" charset="utf-8"></script>
+<script  src="js/initial.js"></script>
+
+
+<script>
+$("[data-toggle='tooltip']").tooltip();
+	var h = $(window).height();
+ $(".right").height(h);
+</script>
+</body>
+</html>

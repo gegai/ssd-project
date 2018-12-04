@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="charset=UTF-8">
+    
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">
+    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css"/>-->
+    <link rel="stylesheet" type="text/css" href="css/pager.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrapValidator.css"/>
+</head>
+<body>
+<div class="left">
+   <div class="navbar-header">
+     
+         <a href="" class="navbar-brand main-brand" style="padding: 5px 55px;"><img src="img/logo_03.png" style="width: 150px;height: 40px;"/></a>
+        </div>
+    <nav class="navbar menu">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home"></span>首页</a></li>
+            <li><a href="warn.html"><span class="glyphicon glyphicon-warning-sign"></span>报警信息</a></li>
+            <li><a href="configure.html"><span class="glyphicon glyphicon-cog"></span>配置</a></li>
+        </ul>
+    </nav>
+</div>
+<div class="right_01">
+    <div class="right-top"></div>
+    <hr class="hr">
+    <div class="container">
+        <div class="master-install">
+            <div class="col-xs-6 col-sm-4">
+                <div class="search">
+					
+						<input type="text" id="search_host" name="ip"  placeholder="请输入IP">&nbsp;&nbsp;&nbsp;&nbsp;
+						<input type="text" id="search_host_mask" name="mask"  placeholder="请输入mask"><button class="glyphicon glyphicon-search" style="border-radius:0 5px 5px 0;margin-top:-1px;"></button>
+					
+										
+				</div>
+            </div>
+            <div class="col-xs-6 col-sm-8 install">
+                <ul>
+                    <li class="removehost"><span class="glyphicon glyphicon-fullscreen"></span>移动至组</li>
+                    <li class="deletegroup"><span class="glyphicon glyphicon-floppy-remove"></span>删除分组</li>
+                    <li class="addgroup"><span class="glyphicon glyphicon-tags"></span>创建分组</li>
+                    <li class="deletehost"><span class="glyphicon glyphicon-trash"></span>删除主机</li>
+                    <li class="addhost"><span><img src="img/add.png"></span>添加主机</li>
+                </ul>
+            </div>
+        </div>
+        <div class="hostInformation">
+            <div class="row clearfix">
+                <div class="col-md-12 column">
+                    <h4>
+                        主机信息
+                    </h4>
+                </div>
+                <div class="col-md-12 column">
+                    <div class="tabbable" id="tabs-396000">
+						
+                        <ul class="nav nav-tabs grouptitle"   style="height:80px; overflow:auto">
+                            <li class="active">
+                                <a href="#panel-145257" data-toggle="tab" style="float: left">分组 1</a><span class="glyphicon glyphicon-edit rename" style="line-height: 40px;"></span>
+                            </li>
+                            <li>
+                                <a href="#panel-738958" data-toggle="tab" style="float: left">分组 2</a><span class="glyphicon glyphicon-edit rename" style="line-height: 40px;"></span>
+                            </li>
+                        </ul>
+						<div align="center" width="100%" style="clear:both">
+                            <ul id="grouppage"></ul>
+							</div>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="panel-145257">
+							
+                                <ul class="group group0">
+                                </ul>
+								
+                            </div>
+							<div align="center" width="100%" style="clear:both">
+                            <ul id="hostpage"></ul>
+							</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div style="margin-top: 10px;">
+            <div class="col-xs-5 col-sm-6" style="padding-left: 0">
+                <table class="table table-striped">
+                    <caption>基本信息</caption>
+                    <tbody class="basicinformation">
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-xs-7 col-sm-6 monitor" style="padding-right: 0;overflow-y: scroll;overflow-x: hidden;">
+                <table class="table table-striped">
+                    <caption>监控信息</caption>
+                    <thead>
+                    <tr>
+                    	<th>卡信息</th>
+                        <th>监控项</th>
+                        <th>阈值</th>
+                        <th>实际值</th>
+                        <th>状态</th>
+                    </tr>
+                    </thead>
+                    <tbody class="monitorinformation">
+
+                    </tbody>
+                </table>
+                <div style="float: right">
+                    <!--<ul class="pagination" id="page2">
+                    </ul>
+                    <div class="pageJump">
+                        <span>跳到</span>
+                        <input type="text" style="width: 40px;"/>
+                        <span>页</span>
+                        <button type="button" class="button">确定</button>
+                    </div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery-confirm.js"></script>
+<script  src="js/bootstrapvalidator/bootstrapValidator.min.js"></script>
+<!--<script src="js/jquery.dataTables.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/dataTables.bootstrap.js" type="text/javascript" charset="utf-8"></script>-->
+<script src="js/bootstrap-paginator.min.js"></script>
+<script  src="js/index.js"></script>
+<script  src="js/host-validator.js"></script>
+
+<script>
+
+ 
+</script>
+</body>
+</html>

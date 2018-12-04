@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">    <link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css"/>-->    <link rel="stylesheet" type="text/css" href="css/pager.css">    <link rel="stylesheet" type="text/css" href="css/layout.css">    <link rel="stylesheet" type="text/css" href="css/init.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrapValidator.css"/>    <style type="text/css">
+    </style>    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css"/>--><script>
+    var change_config_time;  //轮询id保存
+	var global_flash_id=0;  //刷新时间辅助参数
+    var change_time=0;    //前台刷新时间
+	var globle_back_time=0; //后台轮询时间
+	var globle_height=0;//滚动条高度
+	var globle_width=0;//滚动条宽度
+	var global_flag_first=0//标志要不要点开第一个按钮
+function mouseOver1(){document.b1.src="ssd_img/41.png"};  function mouseOut1(){document.b1.src="ssd_img/11.png"};function mouseOver2(){document.b2.src="ssd_img/40.png"};  function mouseOut2(){document.b2.src="ssd_img/40.png"}; function mouseOver3(){document.b3.src="ssd_img/42.png"};  function mouseOut3(){document.b3.src="ssd_img/12.png"}; function run(){  
+    /*加载即点开第一个标签*/
+    setTimeout(function(){
+	//console.log('s0前----------------------');
+	if(global_flag_first==0){
+        document.getElementById("s0").click();  	
+		}
+		}, 1000);      /*加载即执行函数：url判断状态是否正常*/
+	//ssd_db_status();
+	//console.log('s0hou----------------------');}  
+</script>
+</head>
+<body onload="run()" id="bodyId">
+<div>
+  
+        <ul id="menu">
+            
+            <li><a class="ex1" href="warn.html" onmouseover="mouseOver1()" onmouseout="mouseOut1()"><img src="ssd_img/11.png" name="b1">报警信息</a></li>			<li><a class="ex2" href="index.html" onmouseover="mouseOver2()" onmouseout="mouseOut2()"><img src="ssd_img/40.png" name="b2">主机信息</a></li>
+            <li><a class="ex3" href="configure.html" onmouseover="mouseOver3()" onmouseout="mouseOut3()"><img src="ssd_img/12.png" name="b3">系统配置</a></li>
+        </ul>
+  
+</div><table id="tableClass">      <tr>      <td  rowspan="2" style="height:100%;width:22%;vertical-align:top;">      <div style="position:relative;background-color:#d5efff;width:90%;">	   	      <div class="net">	      <div>               <div class="d1">                  
+				  <input type="text" id="search_host" name="ip"  placeholder="请输入IP">				  <input type="text" id="search_host_mask" name="mask"  placeholder="请输入mask">
+				                   <button class="search_button" type="submit"><img src="ssd_img/sh.png" class="img"></button>               </div>          </div>
+          <div style="position:relative;background-color:#3bb7f5; width:80%; height:2px; top:70px;"></div>
+		 
+		  
+		  </div>		  		  <div class="tabbable" style="position:relative;top:18px" id="tabs-396000">                        <ul class="grouptitle" id="group_size" style="position:relative;overflow-y:hidden;roverflow-x:hidden;">                                                        <li class="active">                                <a href="#panel-145257" data-toggle="tab" style="font-size:1.8rem;font-family: verdana;color:black;font-weight: bold;width:100px"><span style="" class="glyphicon glyphicon-plus-sign"></span>分组kkkkkkkkkkkkkkkkk</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class="glyphicon glyphicon-edit rename" style="line-height: 1.5rem;"></span>                                                            </li>                            <li>                                <a href="#panel-738958" data-toggle="tab" style="font-size:1.8rem;font-family: verdana;color:black;font-weight: bold;"><span style="float: left" class="glyphicon glyphicon-plus-sign"></span>分组 2</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class="glyphicon glyphicon-edit rename" style="line-height: 1.5rem;"></span>
+                                </li>                        </ul>						<div align="center" width="100%" style="clear:both">                            <ul id="grouppage" hidden></ul>						</div>                        <div class="tab-content">                            <div class="tab-pane active" >                            <ul class="group group0" hidden>                            </ul>                            </div>							<div align="center" width="100%" style="clear:both">                            <ul id="hostpage" hidden></ul>							</div>                        </div>                    </div>		  						  	  </div>      </td>	  <td style="width:35%;vertical-align:top;height:150px;">      <div style="background-color:#ffffff;width:95%;height:90%;">	  <div style="background-color:#a0dfff;width:100%;height:31.05px;">	  <p class="menu_text">操作菜单</p>	   <div style="width:100%;left:3%;top:10px;" class="col-xs-6 col-sm-8 install">                <ul style="float:left;position:relative;width:100%;height:100%">                    <li class="removehost"><span class="glyphicon glyphicon-fullscreen"></span>移动至组</li>					                    <li class="deletegroup"><span class="glyphicon glyphicon-floppy-remove"></span>删除分组</li>                    <li class="addgroup"><span class="glyphicon glyphicon-tags"></span>创建分组</li>                    <li class="deletehost"><span class="glyphicon glyphicon-trash"></span>删除主机</li>                    <li class="addhost"><span class="glyphicon glyphicon-plus"></span>添加主机</li>                </ul>            </div>	  </div>	  	  	  </div>      </td>	  <td style="width:58%;vertical-align:top;height:150px;">	        <div style="background-color:#ffffff;width:97%;height:90%;">	  	  <div style="background-color:#a0dfff;width:100%;height:31.05px;">	  <p class="menu_text">基本信息</p>	  </div>	  <div class="weizhi">	  <div class="col-xs-5 col-sm-6" style="padding-left: 0">                <table class="table table-striped">                                       <tbody class="basicinformation">                    </tbody>                </table>            </div>	  	  </div>	  </div>      </td>	</tr>  	<tr>      <td colspan="6" id="warn_size" style="vertical-align:top;">	  <div style="background-color:#ffffff;margin-top:0px;width:98.5%;height:100%">	  	  <table class="table-striped" style="margin-top:0px;margin-bottom:0px;width:100%">
+	  <thead style="line-height:4rem;">
+	  <tr style="background-color:#a0dfff;">
+	      <th>&nbsp&nbsp卡信息</th>
+
+          <th>监控项&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+
+          <th>阈值&nbsp&nbsp</th>
+
+          <th>实际值&nbsp&nbsp&nbsp&nbsp</th>
+
+          <th>时间&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+		  
+		  <th style="text-align:center">状态&nbsp&nbsp</th>
+		  <th>&nbsp&nbsp&nbsp&nbsp</th>
+	      </tr>
+	   </thead>
+	    <tbody>
+         
+		   <!--img src="ssd_img/nomal.png"-->
+	  
+       </tbody>
+	  
+	  </table>
+	  <!--div class="d2">
+               <form>
+                  <input type="text" placeholder="搜索关键字" name="crid">
+                  <button type="submit" id="search_key"><img src="ssd_img/sh.png" class="img"></button>
+               </form>
+      </div-->	  		  
+	  <div id="table_scroll" style="width:100%;overflow-y:scroll;margin-top:0px">
+	  	  <table class="table table-striped" style="margin-top:29px">	 	  <thead>
+	  	   </thead>	  	   <tbody class="monitorinformation tabl" >         		   <!--img src="ssd_img/nomal.png"-->	         </tbody>	  	  </table>	  </div>	  
+	  <div>      </td>    </tr></table><div class="poslogo"><img class="img_logo" src="ssd_img/tra.png"></div>
+
+<script>
+</script>
+<script src="js/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery-confirm.js"></script>
+<script  src="js/bootstrapvalidator/bootstrapValidator.min.js"></script>
+<!--<script src="js/jquery.dataTables.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/dataTables.bootstrap.js" type="text/javascript" charset="utf-8"></script>-->
+<script src="js/bootstrap-paginator.min.js"></script>
+<script  src="js/index.js"></script>
+<script  src="js/host-validator.js"></script>
+
+
+<script src="js/jquery.form.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="js/host-validator.js"></script>
+<script src="js/initial.js"></script>
+
+<script>
+var h = $(window).height();
+
+$("#bodyId").css('height',h);
+ 
+</script>
+</body>
+</html>

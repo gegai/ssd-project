@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html>
+
+<head lang="en">
+
+    <meta http-equiv="Content-Type" content="charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+    <link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">
+
+    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css"/>-->
+
+    <link rel="stylesheet" type="text/css" href="css/pager.css">
+
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrapValidator.css"/>
+    <style type="text/css">
+      #menu {
+	         font:2.8rem verdana, arial, sans-serif; 
+	         position:relative;
+			 margin-left:-23%;
+			 left:50%; 
+             width:80%;
+			 margin-top:4.5%;
+			 }
+	  #menu li {float:left;}
+	  #menu li {
+	  list-style:none; /* 将默认的列表符号去掉 */
+      padding:0; /* 将默认的内边距去掉 */
+      margin:0; /* 将默认的外边距去掉 */
+	  width:25%;
+      }
+	  #menu li a {
+
+      color:#FFFFFF;
+	  display:block;
+      align:center;
+	
+      text-decoration:none;
+      }
+	  a.ex3{
+	  color:#7EC0EE !important;
+	  }
+      a.ex1:hover,a.ex1:active {color:#7EC0EE !important;}
+      a.ex2:hover,a.ex2:active {color:#7EC0EE !important;}
+      a.ex3:hover,a.ex3:active {color:#7EC0EE !important;}
+	  #tableClass {
+	  position:relative;
+	  left:50%;
+	  margin-left:-30%;
+	  top:10%;	 
+	  }
+	  .net{
+	  position:relative;
+	  left:50%;
+	  margin-left:-8rem;
+	  top:2rem;
+	  
+	  }
+	  .net_dit{
+	  position:relative;
+	  
+	  }
+	  .net_ip{
+	  position:relative;
+	  width:190px;
+	  height:200px;
+	  }
+	  .net_all{
+	  position:relative;
+	  top:30px;
+	  }
+	  .menu_text{
+	  position:relative;
+	  top:5px;
+	  font-weight: bold;
+	  text-indent: 0.5em;
+	  font-size:20px;
+	  font-family:verdana;
+	  }
+	  .base_det{
+	  position:relative;
+	  top:5px;
+	  font-weight: bold;
+	  text-indent: 0.5em;
+	  font-size:17px;
+	  font-family:verdana;
+	  }
+	  .details{
+	  text-indent: 0.5em;
+	  font-size:15px;
+	  font-family:courier;
+      }
+	  .baseinf{
+	  width:490px;
+	  height:64px; 
+	  vertical-align: middle;
+	  text-indent: 0.5em;
+	  }
+	  .baseline{
+	   background-color:#D1D1D1;
+	   width:490px;
+	   height:2px;
+	   vertical-align:top;
+	  }
+	  .d1{
+	  position:relative;
+	  
+	  width:150px;
+	  height:20px;
+	  }
+	  
+.d1 input {
+  width: 100%;
+  height: 30px;
+  padding-left: 10px;
+  border: 2px solid #63B8FF;
+  border-radius: 15px;
+  outline: none;
+  
+  color: #9E9C9C;
+}
+.d1 button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: #63B8FF;
+  border-radius: 0 15px 15px 0;
+  cursor: pointer;
+}
+.d1 button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 12px;
+  
+}       
+.position{
+      position:relative;
+	  left:50%;
+	  margin-left:-35%;
+	  top:10%;
+      width:70%;	
+
+	  padding:4rem 1rem 1rem 1rem;
+	  border-radius:1.5rem 1.5rem 1.5rem 1.5rem;
+	  background-color:#E0FFFF;
+      	  
+}  
+.chuange{
+position:absolute;
+top:15px;
+width:100%;	
+height:40px;
+margin-bottom:10%;
+}    
+.but {
+    display: inline-block;
+    padding: .3em .5em;
+    background: #a0dfff;
+    border:none;
+    border-radius: .1em;
+    
+    text-align: center;
+    
+    color:white;
+    font-weight: bold;
+}
+.but:active{
+    box-shadow: .05em .1em .2em rgba(0,0,0,.6) inset;
+    border-color: rgba(0,0,0,.3);
+    background: #E0FFFF;
+}     
+	  
+	  
+</style>    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css"/>-->
+<script>
+function mouseOver1(){document.b1.src="ssd_img/41.png"}  
+function mouseOut1(){document.b1.src="ssd_img/11.png"} 
+function mouseOver2(){document.b2.src="ssd_img/40.png"}  
+function mouseOut2(){document.b2.src="ssd_img/10.png"} 
+function mouseOver3(){document.b3.src="ssd_img/42.png"}  
+function mouseOut3(){document.b3.src="ssd_img/42.png"}  
+function run(){  
+    filter02(); 
+    filter03();	
+} 
+</script>
+</head>
+
+<body onload="run()" background="ssd_img/b.jpg" style="position:fixed;background-repeat:no-repeat;width:100%; height:100%;left:0px; top:0px;background-size:cover;">
+
+<div>
+  
+        <ul id="menu">
+
+            
+
+            <li><a class="ex1" href="warn.html" onmouseover="mouseOver1()" onmouseout="mouseOut1()"><img src="ssd_img/11.png" name="b1">报警信息</a></li>
+			<li><a class="ex2" href="index.html" onmouseover="mouseOver2()" onmouseout="mouseOut2()"><img src="ssd_img/10.png" name="b2">主机信息</a></li>
+            <li class="active"><a class="ex3" href="configure.html" onmouseover="mouseOver3()" onmouseout="mouseOut3()"><img src="ssd_img/42.png" name="b3">系统配置</a></li>
+
+        </ul>
+  
+</div>
+<div class="position">
+      <div class="chuange">
+	  <button class="addhostseem but" style="background-color:#a0dfff;">修 改</button>
+	  </div>
+	  
+      <div style=" margin-top:4rem">
+      <table class="table table-striped">
+	  
+	  <tr style="background-color:#a0dfff;">
+	      <th></th>
+		  
+		  <th>名称</th>
+          <th>阈值</th>
+          <th>参数值</th>
+		  <th>危险值</th>
+
+          <th>描述</th>
+
+	   </tr>
+	   <tbody class="monitorinfor">
+      
+
+
+       </tbody>
+	  
+	  </table>
+	  <table class="table table-striped">
+	  
+	  <tr style="background-color:#a0dfff;">
+	      <th></th>
+		  
+		  <th>名称</th>
+          <th>小时</th>
+          <th>分钟</th>
+		  <th>秒</th>
+		  <th>前台刷新时间</th>
+
+          <th>描述</th>
+
+	   </tr>
+	   <tbody class="monitorinfor2">
+      
+
+
+       </tbody>
+	  
+	  </table>
+         </div>  
+</div>
+
+<script src="js/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="js/bootstrap.min.js"></script>
+
+<script src="js/jquery-confirm.js"></script>
+
+<script  src="js/bootstrapvalidator/bootstrapValidator.min.js"></script>
+
+<!--<script src="js/jquery.dataTables.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="js/dataTables.bootstrap.js" type="text/javascript" charset="utf-8"></script>-->
+
+<script src="js/bootstrap-paginator.min.js"></script>
+
+<script  src="js/index.js"></script>
+
+<script  src="js/host-validator.js"></script>
+
+
+
+<script>
+
+
+
+ 
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="charset=UTF-8">
+    
+    <title></title>
+     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	 <link href="https://unpkg.com/bootstrap-switch/dist/css/bootstrap3/bootstrap-switch.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">
+    <link rel="stylesheet" type="text/css" href="css/pager.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+
+</head>
+<body>
+<button onclick='commit_request()'>提交</button>
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</script><script src="https://unpkg.com/bootstrap-switch"></script>
+<script src="js/jquery-confirm.js"></script>
+<script src="js/pager.js"></script>
+<script src="js/bootstrap-paginator.min.js"></script>
+
+<script  src="js/index.js"></script>
+
+<script>
+
+function commit_request() {
+
+	$.ajax({
+		type: 'POST',
+		url: 'http://192.168.1.131:5000/api/v1/ssd/hostinfo',
+		data: JSON.stringify({"ip":"172.16.1.103"}),
+		success: success,
+		dataType: 'json',
+		contentType: 'application/json'
+	});
+}
+
+</script>
+<div class="switch"><input type="checkbox" checked /></div>
+</body>
+</html>

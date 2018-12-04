@@ -1,0 +1,176 @@
+#menu {
+	         font:2.5rem verdana, arial, sans-serif; 
+	         position:relative;
+			 margin-left:-23%;
+			 left:50%; 
+             width:80%;
+			 margin-top:4.5%;
+			 }
+	  #menu li {float:left;}
+	  #menu li {
+	  list-style:none; /* 将默认的列表符号去掉 */
+      padding:0; /* 将默认的内边距去掉 */
+      margin:0; /* 将默认的外边距去掉 */
+	  width:25%;
+      }
+	  #menu li a {
+
+      color:#FFFFFF;
+	  display:block;
+      align:center;
+	  padding-bottom:5px;
+	  width:117px;
+      text-decoration:none;
+      }
+	  a.ex3{
+	  color:#7EC0EE !important;
+	  border-bottom:5px solid #38b8f5;border-bottom-width:3px;
+	  }
+      a.ex1:hover,a.ex1:active {color:#38b8f5 !important;border-bottom:5px solid #38b8f5;border-bottom-width:3px}
+      a.ex2:hover,a.ex2:active {color:#38b8f5 !important;border-bottom:5px solid #38b8f5;border-bottom-width:3px}
+      a.ex3:hover,a.ex3:active {color:#38b8f5 !important;border-bottom:5px solid #38b8f5;border-bottom-width:3px}
+	  #tableClass {
+	  position:relative;
+	  left:50%;
+	  margin-left:-30%;
+	  top:10%;	 
+	  }
+	  .net{
+	  position:relative;
+	  left:50%;
+	  margin-left:-8rem;
+	  top:2rem;
+	  
+	  }
+	  .net_dit{
+	  position:relative;
+	  
+	  }
+	  .net_ip{
+	  position:relative;
+	  width:190px;
+	  height:200px;
+	  }
+	  .net_all{
+	  position:relative;
+	  top:30px;
+	  }
+	  .menu_text{
+	  position:relative;
+	  top:5px;
+	  font-weight: bold;
+	  text-indent: 0.5em;
+	  font-size:20px;
+	  font-family:verdana;
+	  }
+	  .base_det{
+	  position:relative;
+	  top:5px;
+	  font-weight: bold;
+	  text-indent: 0.5em;
+	  font-size:17px;
+	  font-family:verdana;
+	  }
+	  .details{
+	  text-indent: 0.5em;
+	  font-size:15px;
+	  font-family:courier;
+      }
+	  .baseinf{
+	  width:490px;
+	  height:64px; 
+	  vertical-align: middle;
+	  text-indent: 0.5em;
+	  }
+	  .baseline{
+	   background-color:#D1D1D1;
+	   width:490px;
+	   height:2px;
+	   vertical-align:top;
+	  }
+	  .d1{
+	  position:relative;
+	  
+	  width:150px;
+	  height:20px;
+	  }
+	  
+.d1 input {
+  width: 100%;
+  height: 30px;
+  padding-left: 10px;
+  border: 2px solid #63B8FF;
+  border-radius: 15px;
+  outline: none;
+  
+  color: #9E9C9C;
+}
+.d1 button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: #63B8FF;
+  border-radius: 0 15px 15px 0;
+  cursor: pointer;
+}
+.d1 button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 12px;
+  
+}       
+.position{
+      position:relative;
+	  left:50%;
+	  margin-left:-35%;
+	  top:10%;
+      width:70%;	
+
+	  padding:4rem 1rem 1rem 1rem;
+	  border-radius:1.5rem 1.5rem 1.5rem 1.5rem;
+	  background-color:#FFFFFF;
+      	  
+}  
+.chuange{
+position:absolute;
+top:15px;
+width:100%;	
+height:40px;
+margin-bottom:10%;
+}    
+.but {
+    display: inline-block;
+    padding: .3em .5em;
+    background: #a0dfff;
+    border:none;
+    border-radius: .1em;
+    
+    text-align: center;
+    
+    color:white;
+    font-weight: bold;
+}
+.but:active{
+    box-shadow: .05em .1em .2em rgba(0,0,0,.6) inset;
+    border-color: rgba(0,0,0,.3);
+    background: #E0FFFF;
+} 
+.img_logo{
+max-width:200px;
+max-height:70px;
+}       
+.poslogo{
+position:absolute;
+font-size: 3.2rem;
+top:5%;
+left:1%;
+width:20%;
+height:6%;
+//background:#3bb7f5;
+font-family:KaiTi;
+color:white;
+}	  
+	  

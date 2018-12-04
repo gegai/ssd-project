@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html>
+
+<head lang="en">
+
+    <meta http-equiv="Content-Type" content="charset=UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+    <link rel="stylesheet" type="text/css" href="css/jquery-confirm.css">
+
+    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css"/>-->
+
+    <link rel="stylesheet" type="text/css" href="css/pager.css">
+
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+    <link rel="stylesheet" type="text/css" href="css/warn.css">
+	<link href="css/bootstrap-switch.css" rel="stylesheet">
+	 <!--<<link href="https://getbootstrap.com/assets/css/docs.min.css" rel="stylesheet">-->
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrapValidator.css"/>
+    <style type="text/css">
+	  
+</style>    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css"/>-->
+<script>
+    var change_config_time;  //轮询id保存
+	var global_flash_id=0;  //刷新时间辅助参数
+    var change_time=0;    //前台刷新时间
+	var globle_back_time=0; //后台轮询时间
+	var globle_height=0;//滚动条高度
+	var globle_width=0;//滚动条宽度
+	var global_flag_first=0//标志要不要点开第一个按钮
+function mouseOver1(){document.b1.src="ssd_img/41.png"}  
+function mouseOut1(){document.b1.src="ssd_img/41.png"} 
+function mouseOver2(){document.b2.src="ssd_img/40.png"}  
+function mouseOut2(){document.b2.src="ssd_img/10.png"} 
+function mouseOver3(){document.b3.src="ssd_img/42.png"}  
+function mouseOut3(){document.b3.src="ssd_img/12.png"}  
+</script>
+</head>
+
+<body background="ssd_img/b.jpg" style="position:fixed;background-repeat:no-repeat;width:100%; height:100%;left:0px; top:0px;background-size:cover;">
+
+<div>
+  
+        <ul id="menu">
+
+            
+
+            <li class="active"><a class="ex1" href="warn.html" onmouseover="mouseOver1()" onmouseout="mouseOut1()"><img src="ssd_img/41.png" name="b1">报警信息</a></li>
+			<li><a class="ex2" href="index.html" onmouseover="mouseOver2()" onmouseout="mouseOut2()"><img src="ssd_img/10.png" name="b2">主机信息</a></li>
+            <li><a class="ex3" href="configure.html" onmouseover="mouseOver3()" onmouseout="mouseOut3()"><img src="ssd_img/12.png" name="b3">系统配置</a></li>
+
+        </ul>
+  
+</div>
+<div class="position">
+
+            <table class="table table-striped">
+                <caption style="background-color:#a0dfff"><b>报警信息</b></caption>
+                <thead>
+                <tr style="background-color:#FFFFFF;">
+                    <th>报警主机</th>
+                    <th>卡信息</th>
+                    <th>报警级别<div class="monitor"><span class="glyphicon glyphicon-play monitorbtn2"></span>
+					<ul class="monitordiv2">
+                            <li>warning</li>
+                            
+                            <li>danger</li>
+                            
+                        </ul></div></th>
+					</th>
+                    <th>监控项<div class="monitor"><span class="glyphicon glyphicon-play monitorbtn"></span>
+                        <ul class="monitordiv">
+                            <li>Controller Temperature</li>
+                            <li>host_read_latency</li>
+                            <li>Access Mode</li>
+                            <li>Estimated_Life_Left</li>
+                            <li>host_write_latency</li>
+                            <li>host_write_iops</li>
+                            <li>Media Status</li>
+                            <li>host_read_iops</li>
+                            <li>host_write_bandwidth</li>
+                            <li>Dynamic Bad Blocks</li>
+                            <li>SEU Flag</li>
+                            <li>host_read_bandwidth</li>
+                            <li>Flash Temperature</li>
+                        </ul></div></th>
+					<th>操作状态</th>
+                    <th>报警时间</th>
+                    <th>阈值</th>
+                    <th>实际值</th>
+                </tr>
+                </thead>
+                <tbody class="warninformation">
+
+                </tbody>
+            </table>
+           <div id="pageLimit" style="text-align: center"> <ul id="page1"></ul> </div>
+ 
+</div>
+<div class="poslogo">
+<img class="img_logo" src="ssd_img/tra.png">
+</div>
+<script src="js/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap-switch.min.js"></script>  
+
+<script src="js/jquery-confirm.js"></script>
+
+<script  src="js/bootstrapvalidator/bootstrapValidator.min.js"></script>
+
+<!--<script src="js/jquery.dataTables.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="js/dataTables.bootstrap.js" type="text/javascript" charset="utf-8"></script>-->
+
+<script src="js/bootstrap-paginator.min.js"></script>
+
+<script  src="js/warn02.js"></script>
+
+<script  src="js/host-validator.js"></script>
+
+
+
+<script>
+
+
+
+ 
+
+</script>
+
+</body>
+
+</html>
