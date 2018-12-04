@@ -1,0 +1,2407 @@
+nohup: ignoring input
+postgresql connect successfully!!
+pg closed!
+601
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.115
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.116
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.117
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.118
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.119
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.112
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.113
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.120
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.114
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.121
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.122
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'47 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'47 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.130
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.131
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.132
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.133
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.105
+error cmd  error!
+error Incompatible ssh peer (no acceptable kex algorithm)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror Incompatible ssh peer (no acceptable kex algorithm)\n'}
+cmd_start10.10.10.57     11.16.1.123
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.124
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.125
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.126
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.127
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.128
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.129
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528447324.81 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528448497.03 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528449669.29 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528450841.89 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528452014.4 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528453186.63 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528454359.18 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+nohup: ignoring input
+postgresql connect successfully!!
+pg closed!
+300
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'1 KB/s', u'0', u'59 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'1 KB/s', u'0', u'59 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528681799.5 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'47', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'47', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.103
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.104
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.105
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.106
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.107
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.108
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.109
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.110
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528682670.59 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528683035.54 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528683400.46 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528683765.48 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'46', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'46', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528684130.48 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528684495.55 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528684860.51 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'46', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'46', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528685225.42 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528685590.41 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528685955.42 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528686320.41 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528686685.47 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528687050.6 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528687415.55 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528687780.49 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528688145.41 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528688510.61 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528688876.0 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528689240.96 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528689605.95 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528689970.94 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528690336.06 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528690701.08 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528691066.2 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528691431.21 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528691796.33 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528692161.49 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528692526.68 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528692891.85 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528693256.87 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528693621.85 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528693986.88 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528694352.01 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528694717.26 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528695082.36 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528695447.41 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528695812.43 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528696177.43 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528696542.7 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528696908.01 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528697273.14 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528697638.14 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528698003.12 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528698368.12 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528698733.17 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528699099.29 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528699464.49 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528699829.5 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'46', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'46', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528700194.48 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528700559.53 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528700924.73 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528701289.99 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528701655.05 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528702020.16 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+postgresql connect successfully!!
+pg closed!
+1528702385.23 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528702750.34 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528703115.46 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528703480.6 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'35', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528703845.61 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528704210.71 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528704575.79 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528704940.74 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528705305.8 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     11.16.1.111
+error cmd  error!
+error [Errno 110] Connection timed out
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': '10001', 'msg': 'cmd  error!\nerror [Errno 110] Connection timed out\n'}
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+postgresql connect successfully!!
+pg closed!
+1528705670.86 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start10.10.10.57     172.16.1.103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u"[u'dfa']\ndfa\n[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']\nHealthy\n"}
+[u"[u'dfa']", u'dfa', u"[u'mode=0, readwrite', u'45', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+postgresql connect successfully!!
+readwrite
+readwrite
+normal
+normal
+postgresql connect successfully!!
+postgresql update successful!
+postgresql insert successful!
+None
+cmd_start10.10.10.57     11.16.1.111
+nohup: ignoring input
+postgresql connect successfully!!
+postgresql insert old error!
+error list index out of range
+pg closed!
+None
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+Traceback (most recent call last):
+  File "sshgroup.py", line 636, in <module>
+    time.sleep(second)
+TypeError: a float is required

@@ -1,0 +1,218 @@
+# encoding: utf-8
+
+from api.constant.Constant import Constant
+
+from app.model.initgroup_app.initgroup_app import SSDItem
+
+import psycopg2
+import paramiko
+
+
+class SSHgroup(object):
+
+    def Cmd(self,ip,user,password,port,cmd):
+        print ip,user,password,port,cmd
+        print "ccccccccccccccc"
+
+        ssh = paramiko.SSHClient()
+        print "xxxxxxxxxx"
+
+        ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+        print "123"
+        try:
+
+            ssh.connect(hostname=ip, port=port, username=user, password=password,timeout=3)
+            print "vvvvvvvvvvvvv"
+
+            # cmd='cd /sys/block/dfa/shannon/;cat access_mode'
+
+            stdin, stdout, stderr = ssh.exec_command(cmd)
+
+            result = stdout.read()
+
+            if not result:
+
+                result = stderr.read()
+
+            ssh.close()
+
+            result_decode=result.decode()
+
+            return  result_decode
+
+        except Exception, e:
+
+            print "error %s" % str(e)
+
+            pass
+
+    def select_sshhost_info(self,sshgroup_id):
+
+        ret_json = {'status': Constant.INSERT_SUCCESS_CODE}
+
+        try:
+
+            select2=("select a.ip,a.username,a.password,a.port,a.id,a.sshgroup_id,b.ip,b.username,b.password,b.port from ssd_host a LEFT JOIN ssd_sshgroup b on a.sshgroup_id=b.sshgroup_id where b.sshgroup_id=%s;")
+
+            result=SSDItem().executesql('one',select2,sshgroup_id)
+
+
+            data_list=[]
+            for item in result['res']:
+
+                result_dict={}
+                result_dict['ip']=item[0]
+                result_dict['username']=item[1]
+                result_dict['password']=item[2]
+                result_dict['port']=item[3]
+                result_dict['id']=item[4]
+                result_dict['sshgroup_id'] = item[5]
+                result_dict['ssh_ip']=item[6]
+                result_dict['ssh_username']=item[7]
+                result_dict['ssh_password']=item[8]
+                result_dict['ssh_port']=item[9]
+
+                data_list.append(result_dict)
+                # ret_json['data']=data_list
+                # ret_json['sshgroup_id']=item[5]
+            ret_json['data']=data_list
+
+        except Exception, e:
+
+            print "error %s" % str(e)
+
+            ret_json['status'] = Constant.ERROR_CODE
+
+            ret_json['msg'] = e.message
+
+        return ret_json
+
+    '''处理第一个卡信息'''
+    def operate_cardinfo(self,card_info1):
+
+        card_info1_dict={}
+
+        card_info1_dict['a']=card_info1[1][:-1]
+        card_info1_dict['c']=card_info1[2].split("\'")[1]
+        # print "111111111111111111111111111111111111111111"
+        # print card_info1_dict['c']
+        card_info1_dict['f']=card_info1[3].split("\'")[1]
+        card_info1_dict['d']=card_info1[4].split("\'")[1]
+        card_info1_dict['e']=card_info1[5].split("\'")[1]
+        card_info1_dict['rb']=card_info1[6].split("\'")[1]
+        card_info1_dict['ri']=card_info1[7].split("\'")[1]
+        card_info1_dict['rl']=card_info1[8].split("\'")[1]
+        card_info1_dict['wb']=card_info1[9].split("\'")[1]
+        card_info1_dict['wi']=card_info1[10].split("\'")[1]
+        card_info1_dict['wl']=card_info1[11].split("\'")[1]
+        card_info1_dict['s']=card_info1[12].split("\'")[1]
+        # print card_info1_dict
+        return card_info1_dict
+
+
+
+
+    '''处理获得的数据并存入数据库'''
+    def save_to_db(self,card_list,ip):
+        card_info=card_list
+        if card_info is not None:
+            monitor_item_value_list=[]
+            for item in card_info:
+                # print "-----------------------------"
+                # print item
+                monitor_item_value = {}
+
+                monitor_item_value['ip'] =ip
+                monitor_item_value['card'] = item['card']
+                card_info1=item['card_info_1'].split(",")
+                # print card_info1
+                card_info1=SSHgroup().operate_cardinfo(card_info1)
+
+
+                monitor_item_value['Access Mode'] = card_info1['a']
+
+                monitor_item_value['Controller Temperature'] = card_info1['c']
+
+                monitor_item_value['Flash Temperature'] = card_info1['f']
+
+                monitor_item_value['Dynamic Bad Blocks'] = card_info1['d']
+
+                monitor_item_value['Estimated_Life_Left'] = card_info1['e'] + '%'
+
+                monitor_item_value['host_read_bandwidth'] = card_info1['rb']
+
+                monitor_item_value['host_read_iops'] = card_info1['ri']
+
+                monitor_item_value['host_read_latency'] = card_info1['rl']
+
+                monitor_item_value['host_write_bandwidth'] = card_info1['wb']
+
+                monitor_item_value['host_write_iops'] = card_info1['wi']
+
+                monitor_item_value['host_write_latency'] = card_info1['wl']
+
+                monitor_item_value['Media Status'] = item['card_info_2']
+
+                monitor_item_value['SEU Flag'] = card_info1['s']
+
+                monitor_item_value_list.append(monitor_item_value)
+
+                # monitor_state=ConnectDB().get_monitor_state(monitor_item_value_list)
+                #
+                # result=ConnectDB().monitor_to_db(monitor_item_value_list,monitor_state)
+                # print result
+                return result
+
+
+    def execute_ssh_host(self):
+        ret_json = {'status': Constant.INSERT_SUCCESS_CODE}
+
+        select1=("select sshgroup_id from ssd_sshgroup;")
+        result = SSDItem().executesql('none', select1)
+
+        for item in result['res']:
+            sshgroup_id=item
+            host_info = SSHgroup().select_sshhost_info(sshgroup_id)
+
+            for item_host in host_info['data']:
+                try:
+
+                    cmd='./get_hostinfo.sh'+" "+item_host['ip']+" "+item_host['username']+" "+item_host['password']+" "+item_host['port']
+                    # cmd= "cd /sys/block/;ls|grep ^df"
+                    # print 'cmd start'+item_host['ssh_ip']+"   "+item_host['ip']
+                    print "aaaaaaaaa"
+                    result=self.Cmd(item_host['ssh_ip'],item_host['ssh_username'],item_host['ssh_password'],int(item_host['ssh_port']),cmd)
+                    # result_card = SSD().Cmd('172.16.1.103', 'ssd_test', '123456', 22, cmd)
+                    # print result_card
+                    print "bbbbbbbbbb"
+                    print result
+                except Exception, e:
+                    print "ssherror %s" % str(e)
+                card_list=[]
+
+                result2=[u'dfa', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy',u'dfb', u"[u'mode=0, readwrite', u'44', u'34', u'0', u'99', u'0 KB/s', u'0', u'0 us', u'0 KB/s', u'0', u'0 us', u'normal']", u'Healthy']
+                result1=result.splitlines()
+
+                i=0
+
+                while i<len(result1):
+                    if (len(result1)%3)==0:
+                        card_dict2 = {}
+                        card_dict2['card'] = result1[i]
+                        card_dict2['card_info_1'] = result1[i + 1]
+                        card_dict2['card_info_2'] = result1[i + 2]
+
+                        card_list.append(card_dict2)
+                    else:
+                        print 'error!'
+                    i=i+3
+
+                # print card_list
+                result=SSHgroup().save_to_db(card_list,item_host['ip'])
+                ret_json['data']=result
+
+        return ret_json
+
+
+result=SSHgroup().execute_ssh_host()
+print result

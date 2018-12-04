@@ -1,0 +1,154 @@
+nohup: ignoring input
+postgresql connect successfully!!
+postgresql insert old error!
+error list index out of range
+pg closed!
+None
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+Traceback (most recent call last):
+  File "sshgroup.py", line 636, in <module>
+    time.sleep(second)
+TypeError: a float is required
+nohup: ignoring input
+postgresql connect successfully!!
+postgresql insert old error!
+error list index out of range
+pg closed!
+------------------------------
+None
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528709350.67 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528709650.78 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528709950.84 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528710250.94 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528710551.05 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528710851.17 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+1528711151.29 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+pg closed!
+nohup: ignoring input
+postgresql connect successfully!!
+pg closed!
+------------------------------
+300
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528776479.3 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528776779.72 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528777080.18 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528777380.65 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528777681.09 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528777981.48 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528778281.84 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528778582.31 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528778882.75 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
+1528779183.15 do sth
+postgresql connect successfully!!
+postgresql connect successfully!!
+cmd_start172.16.3.97     172.16.3.98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{'status': 10000, 'data': u''}
+[]
+postgresql connect successfully!!
+pg closed!
